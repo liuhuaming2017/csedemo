@@ -23,6 +23,10 @@
         <dependencies>
             <dependency>
                 <groupId>com.huawei.paas.cse</groupId>
+                <artifactId>cse-handler-performance-stats</artifactId>
+            </dependency>
+            <dependency>
+                <groupId>com.huawei.paas.cse</groupId>
                 <artifactId>cse-dependency</artifactId>
                 <version>${cse.version}</version>
                 <type>pom</type>
